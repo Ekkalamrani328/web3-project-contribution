@@ -20,7 +20,7 @@ The projects within this folder aim to:
 
 Each subfolder in `Run-node-tester` contains a unique node project or experiment, such as:
 
-* `custom/
+* `NEXUS/
 * 
 * 
 *
